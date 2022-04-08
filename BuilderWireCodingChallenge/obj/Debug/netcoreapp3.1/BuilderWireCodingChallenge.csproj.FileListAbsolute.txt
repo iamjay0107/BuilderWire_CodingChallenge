@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.exe
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.deps.json
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.json
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfo.cs
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csproj.CopyComplete
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+C:\Users\Win10\source\repos\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.genruntimeconfig.cache

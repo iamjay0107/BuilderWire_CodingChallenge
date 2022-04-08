@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAnE/V4IzHTobP503P8SZ7kxPd2BmAje1ygrfaBDX5N8JVE0OeFuPMGEO9+JKcdvgbN7rsdViFg93PenMiZglg==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Projects\\BuilderWire\\BuilderWireCodingChallenge\\BuilderWireCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
